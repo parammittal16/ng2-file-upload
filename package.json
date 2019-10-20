@@ -65,7 +65,7 @@
     "@types/marked": "0.0.28",
     "@types/node": "7.0.0",
     "@types/webpack": "^2.2.1",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "chokidar-cli": "1.2.0",
     "classlist-polyfill": "1.0.3",
     "codecov": "1.0.1",
